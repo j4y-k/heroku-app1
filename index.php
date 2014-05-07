@@ -27,7 +27,7 @@
 						<span class="fa fa-bars color-white"></span>
 					</button>
 					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px; height:500px;" data-300="line-height:50px;">
-					Navytie
+					App
 					<!--	<img src="https://raw.githubusercontent.com/j4y-k/heroku-app1/master/img/navytie_logo.png" />
 					-->
 					
@@ -54,8 +54,9 @@
 						<div class="align-center">
 						
                                                         <h2 class="slogan" style="margin-top: 20px;">Hello.</h2>
-
+<!--
 																<img src="img/navytie_logo.png" />
+-->
 							<p>
 							Heroku Test App 1						
 	</p>	
