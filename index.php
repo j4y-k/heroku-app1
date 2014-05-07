@@ -28,7 +28,7 @@
 					</button>
 					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px; height:500px;" data-300="line-height:50px;">
 					Navytie
-					<!--	<img src="http://navytie.com/wp-content/uploads/2011/08/navytie_logo.png" />
+					<!--	<img src="https://raw.githubusercontent.com/j4y-k/heroku-app1/master/img/navytie_logo.png" />
 					-->
 					
 					</a></h1>
@@ -125,8 +125,8 @@
 			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
 				<div class="col-sm-12 align-center">
                     <ul class="social-network social-circle">
-                        <li><a href="http://facebook.com/navytie" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="http://twitter.com/navytie" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="http://facebook.com/" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="http://twitter.com/" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                     </ul>				
 				</div>
 			</div>
