@@ -58,7 +58,7 @@
 																<img src="img/navytie_logo.png" />
 -->
 							<p>
-							Heroku Test App 1						
+							Heroku Test App 1.1						
 	</p>	
 						</div>
 					</div>
